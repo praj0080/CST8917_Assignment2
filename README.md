@@ -195,8 +195,5 @@ This report will show the Azure serverless services taken during the course and 
 
 ---
 
-## References (official docs & pricing)
-Azure: Functions (triggers/bindings), Durable Functions, Logic Apps (connectors), Service Bus, Event Grid, Event Hubs, pricing information pages.  
-AWS: Lambda, Step Functions, SQS, SNS, EventBridge, Kinesis Streams, CloudWatch docs and pricing pages  
-GCP: Cloud Functions (2nd gen) via Cloud Run functions, Workflows, Pub/Sub, Eventarc, Logging/Monitoring, pricing.
+
 
